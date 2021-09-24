@@ -11,12 +11,13 @@
     <form id="form1" runat="server">
         <div>
             <br />
-            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+            <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
             &nbsp;hola<br />
             <br />
             <asp:Button ID="Button1" runat="server" Text="Cargar" />
 &nbsp;
             <asp:Button ID="Button2" runat="server" Text="insertar " />
+            <asp:Calendar ID="Calendar1" runat="server" style="margin-top: 20px"></asp:Calendar>
             <br />
             <br />
             prueba 2 de Maikol</div>
