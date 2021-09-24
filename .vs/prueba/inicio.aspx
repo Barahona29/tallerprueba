@@ -13,7 +13,6 @@
             <br />
             <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
             &nbsp;&nbsp;
-            <asp:CheckBox ID="CheckBox1" runat="server" Text="confirmar" />
             <br />
             <br />
             <asp:Button ID="Button1" runat="server" Text="Cargar" />
