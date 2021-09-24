@@ -19,7 +19,7 @@
             <asp:Button ID="Button2" runat="server" Text="insertar " />
             <br />
             <br />
-            prueba</div>
+            prueba 2 de Maikol</div>
     </form>
 </body>
 </html>
