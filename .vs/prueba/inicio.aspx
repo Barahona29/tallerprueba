@@ -19,6 +19,7 @@
 &nbsp;
             <asp:Button ID="Button2" runat="server" Text="insertar " />
             <asp:Calendar ID="Calendar1" runat="server" style="margin-top: 20px"></asp:Calendar>
+            <asp:Button ID="Button3" runat="server" Text="Aceptar" />
             <br />
             <br />
             prueba 4 de Maikol </div>
