@@ -15,7 +15,8 @@
             <br />
             <br />
             <asp:Button ID="Button1" runat="server" Text="Button" />
-            <br />
+&nbsp;
+            <asp:Button ID="Button2" runat="server" Text="insertar " />
             <br />
             <br />
             prueba</div>
