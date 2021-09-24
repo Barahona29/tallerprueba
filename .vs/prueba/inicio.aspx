@@ -14,7 +14,7 @@
             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <br />
             <br />
-            <asp:Button ID="Button1" runat="server" Text="Button" />
+            <asp:Button ID="Button1" runat="server" Text="Cargar" />
 &nbsp;
             <asp:Button ID="Button2" runat="server" Text="insertar " />
             <br />
