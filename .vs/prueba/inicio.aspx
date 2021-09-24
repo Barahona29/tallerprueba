@@ -20,7 +20,7 @@
             <asp:Calendar ID="Calendar1" runat="server" style="margin-top: 20px"></asp:Calendar>
             <br />
             <br />
-            prueba 2 de Maikol</div>
+            prueba 2 de Maikol </div>
     </form>
 </body>
 </html>
