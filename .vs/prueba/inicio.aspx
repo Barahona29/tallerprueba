@@ -18,7 +18,7 @@
             <asp:Button ID="Button1" runat="server" Text="Cargar" />
 &nbsp;
             <asp:Button ID="Button2" runat="server" Text="insertar " />
-            <asp:Calendar ID="Calendar1" runat="server" style="margin-top: 20px"></asp:Calendar>
+            <asp:Calendar ID="Calendar1" runat="server" style="margin-top: 135px" Height="97px" Width="168px"></asp:Calendar>
             <asp:Button ID="Button3" runat="server" Text="Aceptar" />
             <br />
             <br />
