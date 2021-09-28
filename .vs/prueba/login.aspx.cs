@@ -16,14 +16,12 @@ namespace prueba
         {
 
         }
- static string conexion = "SERVER=sql6.freesqldatabase.com;PORT=3306;DATABASE=sql6440799;UID=sql6440799;PASSWORD=HTdPlarydG;SSL Mode=none";
+ static string conexion = "SERVER=sql6.freesqldatabase.com;PORT=3306;DATABASE=sql6440799;UID=sql6440799;PASSWORD=HTdPIarydG;SSL Mode=none";
             MySqlConnection cn = new MySqlConnection(conexion);
         public void registro() 
         {
             try { 
             cn.Open();
-
-
 
             string insertar = "INSERT INTO usuarios(usuario, contra, correo)values(@usuario,@contra,@correo)";
             MySqlCommand cmd = new MySqlCommand(insertar, cn);
