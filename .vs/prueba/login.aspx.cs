@@ -16,7 +16,7 @@ namespace prueba
         {
 
         }
- static string conexion = "SERVER=sql10.freesqldatabase.com;PORT=3306;DATABASE=sql10438798;UID=sql10438798;PASSWORD=1FCrGerAw8;SSL Mode=none";
+ static string conexion = "SERVER=sql6.freesqldatabase.com;PORT=3306;DATABASE=sql6440799;UID=sql6440799;PASSWORD=HTdPlarydG;SSL Mode=none";
             MySqlConnection cn = new MySqlConnection(conexion);
         public void registro() 
         {
